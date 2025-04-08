@@ -41,5 +41,5 @@ ai-trading-agent/
     └── training_results.txt
 
     
-I'm happy to answer any questions about the code or development process. Your thoughts and suggestions are always appreciated!
+I will be happy to answer any questions about the code or development process so if you have any questions please fell free to contac me. Your thoughts and suggestions are always appreciated! :))
 
