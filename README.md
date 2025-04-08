@@ -21,25 +21,6 @@ pip install -r requirements.txt
 ## Usage
 python src/main.py
 
-## Project Structure
-ai-trading-agent/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── src/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── environment.py
-│   ├── agent.py
-│   ├── dqn.py
-│   └── utils.py
-├── data/
-│   └── aapl_2020-2024.csv
-├── notebooks/
-│   └── exploration.ipynb
-└── results/
-    └── training_results.txt
-
-    
+  
 I will be happy to answer any questions about the code or development process so if you have any questions please fell free to contac me. Your thoughts and suggestions are always appreciated! :))
 
